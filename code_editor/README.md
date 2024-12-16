@@ -2,4 +2,5 @@
 npm install  
 npm run dev  
 Приложение запустится на http://localhost:5173/  
-мок-сервер реализован через библиотеку miragejs
+мок-сервер реализован через библиотеку miragejs  
+Тестовое сообщение fmt.Println(\"Hello, world!\")
